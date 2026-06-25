@@ -10,7 +10,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Bilibili', link: 'https://space.bilibili.com/650182011' },
-      { text: 'Mik', link: 'https://mik.noctiro.moe' }
+      { text: 'Mik', link: 'https://mcmik.top' }
     ],
 
     sidebar: [
